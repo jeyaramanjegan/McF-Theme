@@ -12,6 +12,10 @@
                 <width>140</width>
                 <height>140</height>
             </image>
+            <image id="swatch_image" type="swatch_image">
+               <width>53</width>
+                <height>64</height>
+             </image>
             <image id="cart_cross_sell_products" type="small_image">
                 <width>240</width>
                 <height>300</height>
