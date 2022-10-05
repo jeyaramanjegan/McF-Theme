@@ -9,5 +9,6 @@
     <body>
         <move element="page.main.title" destination="product.info.main" before="-"/>
         <move element="product.info.overview" destination="page.main.title" />
+        <move element="view.addto.wishlist" destination="product.info.media" before="-"/>
     </body>
 </page>

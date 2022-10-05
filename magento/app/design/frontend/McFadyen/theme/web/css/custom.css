@@ -13,7 +13,7 @@ body {
     font-weight: 400;
     font-size: 1.4rem;
 }
-p{
+p, a{
     font-family: 'RobotoRegular';
     color: #000;
 }
@@ -240,7 +240,7 @@ nav.navigation {
     margin-top: 5%;
 }
 .d-flex.align-items-center.justify-content-center.top-footer-links {
-    margin-bottom: 5%;
+    margin-bottom: 9%;
 }
 .top-footer-links .p-2.bd-highlight.col-example{
     font-weight: 400;
@@ -248,4 +248,23 @@ nav.navigation {
     text-align: center;
     text-decoration-line: underline;
     text-transform: uppercase;
+}
+
+/* wishlist to product image styling*/
+
+.product.media a.action.towishlist {
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.product.media a.action.towishlist:after {
+    content: '\e601';
+    font-size: 50px;
+    line-height: 24px;
+    color: #7d7d7d;
+    font-family: 'icons-blank-theme';
+}
+.product.media a.action.towishlist span, .product-info-main .product-addto-links{
+    display: none;
 }
