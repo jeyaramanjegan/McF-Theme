@@ -209,10 +209,6 @@
         width: 250px;
         z-index: 4;
 
-        .label {
-            &:extend(.abs-visually-hidden-desktop all);
-        }
-
         .control {
             border-top: 0;
             margin: 0;
@@ -223,13 +219,6 @@
             display: block;
             padding-top: 5px;
             position: absolute;
-        }
-
-        input {
-            .lib-input-placeholder(@form-element-input-placeholder__color);
-            margin: 0;
-            padding-right: 35px;
-            position: static;
         }
 
         .action.search {
