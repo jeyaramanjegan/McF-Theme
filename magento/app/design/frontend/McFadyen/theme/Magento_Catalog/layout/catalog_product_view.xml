@@ -9,6 +9,10 @@
     <body>
         <move element="page.main.title" destination="product.info.main" before="-"/>
         <move element="product.info.overview" destination="page.main.title" />
+        <referenceBlock name="product.info.social">
+            <block class="Magento\Framework\View\Element\Template" name="product.info.custom_block" template="Magento_Catalog::html/custom.phtml">
+            </block>
+        </referenceBlock>
         <move element="view.addto.wishlist" destination="product.info.media" before="-"/>
     </body>
 </page>
