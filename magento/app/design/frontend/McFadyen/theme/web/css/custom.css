@@ -33,6 +33,7 @@ body {
 }
 .product-info-main .product.attribute.overview {
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 .product-info-main .price-box .price-wrapper .price{
     font-family: 'RobotoRegular';
@@ -60,4 +61,40 @@ body {
 }
 .product-info-stock-sku, .product-reviews-summary.empty, .field.qty span{
     display: none;
+}
+.swatch-attribute.size .swatch-option, .swatch-attribute.manufacturer .swatch-option {
+    width: 78px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 100px;
+    font-size: 14px;
+    padding: 6px 10px;
+}
+.swatch-attribute-label {
+    text-transform: uppercase;
+}
+
+/* Nav section styling*/
+
+.sections.nav-sections {
+    display: inline-block;
+    background: transparent;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+.block-search {
+    width: 128px;
+}
+.navigation .level0>.level-top {
+    color: #575757;
+    line-height: 53px;
+    padding: 0 6px;
+    color: #000000;
+    font-weight: 400;
+    font-size: 14px;
+}
+nav.navigation {
+    background: transparent;
 }
