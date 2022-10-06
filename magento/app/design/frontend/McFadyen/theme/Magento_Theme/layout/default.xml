@@ -15,5 +15,9 @@
                 </arguments>
             </block>
         </referenceContainer>
+        <referenceBlock name="header-wrapper">
+            <block class="Magento\Framework\View\Element\Template" name="custom-link-my-account" template="Magento_Theme::html/links.phtml" after="minicart">
+            </block>
+        </referenceBlock>
     </body>
 </page>
