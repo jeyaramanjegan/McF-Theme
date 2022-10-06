@@ -15,8 +15,12 @@
 
 ![image-1](https://user-images.githubusercontent.com/48308523/194242439-05cc82c3-1503-44ef-b63e-818423032bef.png)
 
+#Development Git commit
 
-# Activating McF-Theme 
+![Image-4](https://user-images.githubusercontent.com/48308523/194252622-3d2131b8-26d4-4964-88af-e83be54927b2.png)
+
+# Activating McF-Theme
+
 
 ![Image-2](https://user-images.githubusercontent.com/48308523/194243042-bda35859-8066-4a32-a722-ac6b35e13bd2.png)
 
