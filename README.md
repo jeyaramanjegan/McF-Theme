@@ -26,4 +26,4 @@
 ![Image-3](https://user-images.githubusercontent.com/48308523/194243428-fa249a2d-1297-4c10-8687-159ab8fcbf23.png)
 
 
-# Actuallt Size Guide should be add by product attribute. here i Simply hard coded the text.
+# Actually Size Guide should be add by product attribute. here i Simply hard coded the text.
