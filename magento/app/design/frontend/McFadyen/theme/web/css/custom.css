@@ -329,6 +329,9 @@ ul.user-account-links-outer li a{
     .block-search {
         top: 9px;
     }
+   .sections.nav-sections{
+       background: #fff;
+    }
     .page-layout-1column .product.media {
         width: 100%;
         float: left;
