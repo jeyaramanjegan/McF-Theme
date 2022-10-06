@@ -28,7 +28,8 @@
 Block Name -> footer top banner 
 Block ID-> footer-top-banner
 
-`<div class="container top-footer-text">
+```html
+<div class="container top-footer-text">
 <div class="row">
 <div class="col-md-12">
 <div class="d-flex align-items-center justify-content-center top-footer-links">
@@ -42,7 +43,7 @@ Block ID-> footer-top-banner
 </div>
 </div>
 </div>
-</div>`
-
+</div>
+```
 
 # Actually Size Guide should be add by product attribute. here i Simply hard coded the text.
